@@ -34,3 +34,4 @@ Lambda is an AWS service for running code seamlessly in the cloud. You will move
 One of the advantages of running code in AWS is that scheduling and automation are easy. In our case, we will use CloudWatch Events / EventBridge to create rules that will trigger the execution of the data collection scripts.
 
 #### Phase 3: Medium article
+[Digging Deep: From Archaeologist to Data Scientist](https://medium.com/@agatakostrzewa89/digging-deep-from-archaeologist-to-data-scientist-conquering-my-first-data-engineering-project-bf88ca072ec)
